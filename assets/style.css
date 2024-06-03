@@ -1,19 +1,18 @@
 html {
     cursor: crosshair;
-    :
 }
 
 body.game {
-    background-image: url(bg.jpg);
+    background-image: url(./images/bg.jpg);
 }
 
 body.over {
-    background: url(game_over.png);
+    background: url(./images/game_over.png);
     background-color: black;
 }
 
 body.inicio {
-    background: url(bg.jpg);
+    background: url(./images/bg.jpg),fixed;
 }
 
 div #form {
