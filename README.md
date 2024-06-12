@@ -1,8 +1,8 @@
-# EstiLo Marmota: Mata Mosquitos 🦟
+# Estilo Marmota: Mata Mosquitos 🦟
 
 ## História de Salvamento da Princesa 👑
 
-Num reino distante, a Princesa foi enfeitiçada por um bando de marmotas travessas! Sua única esperança é um herói destemido, armado com um mouse e determinação inabalável para eliminar essas criaturas maléficas. Você será capaz de salvar a Princesa?
+Num reino distante, a Princesa foi enfeitiçada por um bando de moscas travessas! Sua única esperança é um herói destemido, armado com um mouse e determinação inabalável para eliminar essas criaturas maléficas. Você será capaz de salvar a Princesa?
 
 ## Sobre o Jogo 🎮
 
