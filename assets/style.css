@@ -4,6 +4,9 @@ html {
 
 body.game {
     background-image: url(./images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 body.over {
@@ -12,7 +15,10 @@ body.over {
 }
 
 body.inicio {
-    background: url(./images/bg.jpg),fixed;
+    background-image: url(./images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 div #form {
